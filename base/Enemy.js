@@ -1,7 +1,4 @@
-const general = {
-  random: require('./general/random.js'),
-  range: require('./general/range.js')
-};
+const general = require('./general.js');
 module.exports = class Enemy {
   constructor(name, description, level, health = 20, damageRange = general.range(5, 10), rewards) {
     this.name = name;
