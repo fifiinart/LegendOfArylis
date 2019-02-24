@@ -1,12 +1,10 @@
 class Item {
-  constructor(name, description, tier, itemClass) {
+  constructor(name, description, tier, recipe, forgableItems) {
     this.name = name;
-    this.itemClass = itemClass;
     this.tier = tier;
     this.name = name;
     this.description = description;
-  }
-  toString () {
-    
+    this.recipe = recipe;
+    this.forgableItems = forgableItems;
   }
 }
