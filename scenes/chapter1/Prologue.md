@@ -22,5 +22,5 @@ I stand up, shakily, rusted sword in hand. The Hogosha's gun targets me.
 "Iroas!" Arylis yells.
 Out of nowhere, Arylis holds out her hand and a glowing yellow nine-tailed fox rushes into the Hogosha, destroying it.
 
-I lay down, exhausted. Arylis catches me and runs as fast as she can. She opens a door and gently places me into a chamber. 
+I lay down, exhausted. Arylis catches me and runs as fast as she can. She opens a door and gently places me into a chamber.
 "See you soon..." she whispers. She walks away.
