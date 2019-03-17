@@ -1,6 +1,6 @@
 # Chapter 1 - The Storm
 
-## 200 years ago
+__**200 years ago**__
 
 \*huff\* \*huff\* \*huff\*
 I finally see Arylis in sight. I run to her, not knowing who is nearby.
