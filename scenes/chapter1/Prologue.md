@@ -1,4 +1,4 @@
-# Chapter 1 - The Storm
+# Prologue - The Storm
 
 __**200 years ago**__
 
@@ -15,17 +15,17 @@ I silently shake my head no.
 
 Out of nowhere, I see a Hogosha come close. It spun its head around, before it spotted us.
 
-"Iroas! Go! I'll be fine!" Arylis cries.
+"Yusha! Go! I'll be fine!" Arylis cries.
 
 "No."
 
 I stand up, shakily, rusted sword in hand. The Hogosha's gun targets me.
 
-"Iroas!" Arylis yells.
+"Yusha!" Arylis yells.
 
 Out of nowhere, Arylis shoots out her hand and a young girl surrounded by three golden flames rushes out of a rift marked with the symbol of light.
 
-*She was Lux, the sixth mage of Koralue.*
+*She was Hikori, the sixth mage of Heiko.*
 
 She stabs a glowing sword into the Hogosha, destroying it, before disappearing into a spirit, dashing into the sky.
 
@@ -33,4 +33,4 @@ I fall down, exhausted. Arylis catches me, picks me up, and runs as fast as she 
 
 "See you soon..." she whispers. She walks away.
 
-The last thing I see is a yellow spirit flying into to me, before I fell asleep.
+The last thing I see is a yellow spirit flying around me, before I fell asleep.
