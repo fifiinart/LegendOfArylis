@@ -1,6 +1,6 @@
 # Chapter 1 - The Storm
 
-*huff* *huff* *huff*
+\*huff\* \*huff\* \*huff\*
 I finally see Arylis in sight. I run to her, not knowing who is nearby.
 
 "How... how did this happen?" she says. "How did it come to this?"
